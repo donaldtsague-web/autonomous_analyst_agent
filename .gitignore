@@ -1,0 +1,22 @@
+*.pdf
+.env
+*.pkl
+
+# Environnements & caches Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Données persistées (index vectoriel, BM25)
+storage/
+chroma_db/
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
