@@ -10,5 +10,7 @@ chromadb
 sentence-transformers
 pypdf
 rank-bm25
+tavily-python
+ddgs
 python-dotenv
 pytest
