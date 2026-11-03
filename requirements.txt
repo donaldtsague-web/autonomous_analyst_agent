@@ -3,6 +3,7 @@ langchain-community
 langchain-core
 langchain-experimental
 langchain-huggingface
+langchain-chroma
 langgraph
 chromadb
 sentence-transformers
