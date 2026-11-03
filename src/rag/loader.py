@@ -48,3 +48,4 @@ def load_documents(data_dir: Path) -> list[Document]:
 
     log_step(logger, STEP, f"Total : {len(documents)} segment(s) depuis {data_dir}")
     return documents
+
